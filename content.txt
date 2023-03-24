@@ -1,0 +1,8 @@
+Links:
+https://p5js.org/
+https://p5js.org/reference/
+
+Colors:
+Black: #000000
+White: #ffffff
+
